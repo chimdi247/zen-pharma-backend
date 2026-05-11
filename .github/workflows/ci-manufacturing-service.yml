@@ -1,4 +1,4 @@
-name: CI/CD — manufacturing-service
+name: CI/CD — manufacturing-services
 
 # Triggers on push to develop / release branches only.
 # Feature branches and PRs → ci-pr-manufacturing-service.yml
