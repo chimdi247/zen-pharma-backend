@@ -1,4 +1,4 @@
-name: PR Check — manufacturing-service
+name: PR Check — manufacturing-service.
 
 on:
   push:
