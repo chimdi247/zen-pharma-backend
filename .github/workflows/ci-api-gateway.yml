@@ -1,6 +1,6 @@
 name: CI/CD — api-gateway
 
-# Triggers on push to develop / release branches only.
+# Triggers on push to develop / release branches only..
 # Feature branches and PRs → ci-pr-api-gateway.yml
 #
 # Jobs:
