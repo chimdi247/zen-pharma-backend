@@ -1,6 +1,6 @@
 name: PR Check — api-gateway
 
-# Runs on feature/fix/chore branches and PRs to develop.
+# Runs on feature/fix/chore branches and PRs to develop..
 # Lint + test + SAST only. No Docker, no ECR, no deploy.
 
 on:
