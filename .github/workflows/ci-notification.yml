@@ -1,6 +1,6 @@
 name: CI/CD — notification-service
 
-# Triggers on push to develop / release branchese only.
+# Triggers on push to develop / release branchese only..
 # Feature branches and PRs → ci-pr-notification.yml
 # PROD promotion → promote-prod.yml (workflow_dispatch)
 
