@@ -1,6 +1,6 @@
 name: CI/CD — inventory-service
 
-# Triggers on push to develop / release branches only.
+# Triggers on push to develop / release branchess only.
 # Feature branches and PRs → ci-pr-inventory-service.yml
 # PROD promotion → promote-prod.yml (workflow_dispatch)
 
