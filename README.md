@@ -3,9 +3,9 @@
 Spring Boot microservices monorepo for the Zen Pharma platform. Contains 7 backend services built with Java 17 and deployed to AWS EKS via GitOps (ArgoCD).
 
 > **Companion repos:**
-> - [`zen-infra`](https://github.com/your-github-username/zen-infra) — Terraform for AWS infrastructure (EKS, RDS, ECR, IAM)
-> - [`zen-pharma-frontend`](https://github.com/your-github-username/zen-pharma-frontend) — React frontend
-> - [`zen-gitops`](https://github.com/your-github-username/zen-gitops) — ArgoCD apps + Helm values
+> - [`zen-infra`](https://github.com/chimdi247/zen-infra) — Terraform for AWS infrastructure (EKS, RDS, ECR, IAM)
+> - [`zen-pharma-frontend`](https://github.com/chimdi247/zen-pharma-frontend) — React frontend
+> - [`zen-gitops`](https://github.com/chimdi247/zen-gitops) — ArgoCD apps + Helm values
 
 ---
 
