@@ -1,4 +1,4 @@
-name: CI/CD — qc-service
+name: CI/CD — qc-service 
 
 on:
   push:
