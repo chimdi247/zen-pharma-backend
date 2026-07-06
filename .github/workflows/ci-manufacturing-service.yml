@@ -1,6 +1,6 @@
 name: CI/CD — manufacturing-services
 
-# Triggers on push to develop / release branchese only.
+# Triggers on push to develop / release branchese only..
 # Feature branches and PRs → ci-pr-manufacturing-service.yml
 # PROD promotion → promote-prod.yml (workflow_dispatch)
 
