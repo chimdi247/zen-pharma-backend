@@ -5,7 +5,7 @@
 <!--
   Practical Checkstyle ruleset for Spring Boot microservices.
   failOnViolation=false in pom.xml means these are warnings not errors.
-  Tighten by setting failOnViolation=true in pom.xml when the team is ready.
+  Tighten by setting failOnViolation=true in pom.xml when the team this ready.
 -->
 <module name="Checker">
   <property name="severity" value="warning"/>

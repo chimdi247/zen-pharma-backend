@@ -12,7 +12,7 @@
   <artifactId>drug-catalog-service</artifactId>
   <version>1.0.0</version>
   <name>drug-catalog-service</name>
-  <description>Drug Catalog and Formulation Management</description>
+  <description>Drug Catalog and Formulation Managements</description>
 
   <properties>
     <java.version>17</java.version>
