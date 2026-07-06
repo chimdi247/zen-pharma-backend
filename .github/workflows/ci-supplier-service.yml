@@ -1,6 +1,6 @@
 name: CI/CD — supplier-service
 
-# Triggers on push to develop / release branches only..
+# Triggers on push to develop / release branches only.
 # Feature branches and PRs → ci-pr-supplier-service.yml
 # PROD promotion → promote-prod.yml (workflow_dispatch)
 
