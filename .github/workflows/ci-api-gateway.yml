@@ -5,7 +5,7 @@ name: CI/CD — api-gateway
 #
 # Jobs:
 #   build       → Maven + SAST + Docker + ECR + Cosign
-#   deploy-dev  → direct commit to envs/dev/ → ArgoCD auto-syncs → smoke test
+#   deploy-dev  → direct commit to envs/dev/ → ArgoCD auto-syncs → smoke tests
 #   open-qa-pr  → opens a PR in zen-gitops for envs/qa/ (PR merge = QA deployments)
 #
 #
